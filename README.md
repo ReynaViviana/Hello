@@ -9,9 +9,9 @@ Hola, mi nbombre es Reyna Jaramillo, licenciada en economía y estudiante de la 
 La sección de Referencias de este repositorio las encontrarás en [este link](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I/blob/main/actividades/08_Git_and_GitHub.md).
 
 
-### Original idea
-This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
-
+### Original
+Original idea by [Tiffany Timbers](https://github.com/ttimbers) in the repository [ttimbers/hello](https://github.com/ttimbers/hello). Thank you Tiffany!
+git
 
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
